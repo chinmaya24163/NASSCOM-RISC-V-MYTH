@@ -18,7 +18,7 @@ This repository contains day-wise notes, lab writeups, and lecture documentation
 
 ### D1SK3 - Integer number representation
 - [6-RV_D1SK3_L1_Bit_Number_System_For_Unsigned_Numbers](day1/6-RV_D1SK3_L1_Bit_Number_System_For_Unsigned_Numbers.md)
-- [7-Bit Number System For Signed Numbers](day1/7-Bit_Number_System_For_Signed_Numbers.md)
+- [7-RV_D1SK3_L2_Bit_Number_System_For_Signed_Numbers](day1/7-RV_D1SK3_L2_Bit_Number_System_For_Signed_Numbers.md)
 - [8-RV_D1SK3_L3_Lab For Signed And Unsigned Numbers](day1/8-RV_D1SK3_L3_Lab_For_Signed_And_Unsigned_Numbers.md)
 
 ---
