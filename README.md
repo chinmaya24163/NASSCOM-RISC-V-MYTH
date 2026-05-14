@@ -17,7 +17,7 @@ This repository contains day-wise notes, lab writeups, and lecture documentation
 - [5-RV_D1SK2_L3_Spike Simulation And Debug](day1/5-RV_D1SK2_L3_Spike_Simulation_And_Debug.md)
 
 ### D1SK3 - Integer number representation
-- [6-Bit Number System For Unsigned Numbers](day1/6-Bit_Number_System_For_Unsigned_Numbers.md)
+- [6-RV_D1SK3_L1_Bit_Number_System_For_Unsigned_Numbers](day1/6-RV_D1SK3_L1_Bit_Number_System_For_Unsigned_Numbers.md)
 - [7-Bit Number System For Signed Numbers](day1/7-Bit_Number_System_For_Signed_Numbers.md)
 - [8-RV_D1SK3_L3_Lab For Signed And Unsigned Numbers](day1/8-RV_D1SK3_L3_Lab_For_Signed_And_Unsigned_Numbers.md)
 
