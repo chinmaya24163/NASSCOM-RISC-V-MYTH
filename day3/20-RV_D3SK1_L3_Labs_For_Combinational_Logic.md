@@ -70,6 +70,10 @@ Both are 32-bit vectors.
 
 ![Calculator Simulation Waveform](images/lec20/Calculator_Simulation_Waveform.png)
 
+## MakerChip link
+
+[Click Here To Open the Calculator in Makerchip](https://makerchip.com/v132/ide/~0gJflhzE/p-0xGhJX)
+
 ---
 
 # Parallel Hardware Execution
