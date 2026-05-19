@@ -114,6 +114,8 @@ The final output signal is error3 in stage 6.
 
 ![Error Conditions Pipeline](images/lec25/Error_Pipeline.png)
 
+[Click Here To Open the Error Conditions Pipeline  in Makerchip](https://makerchip.com/v132/ide/~0gJflhzE/p-0r0hAp)
+
 ## Unassigned Signals
 
 MakerChip may warn:
