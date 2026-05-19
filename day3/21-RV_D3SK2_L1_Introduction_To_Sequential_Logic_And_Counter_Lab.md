@@ -173,6 +173,8 @@ every clock cycle.
 
 ![Counter](images/lec21/Counter.png)
 
+[Click Here To Open the Counter in Makerchip](https://makerchip.com/v132/ide/~0gJflhzE/p-0lOho2)
+
 ---
 
 # Hardware Perspective
