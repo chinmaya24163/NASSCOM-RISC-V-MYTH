@@ -127,3 +127,42 @@ If we're doing a memory operation, then we want to grab the value of output and 
 ![Calculator With Single Value Memory](images/lec31/Calculator_With_Single_Value_Memory.png)
 
 [Click Here To Open The Calculator With Single Value Memory in Makerchip](https://makerchip.com/v132/ide/~0ADf9hjY/p-02RhVk)
+
+---
+
+# Hardware Perspective
+
+| Concept                 | Meaning                            |
+| ----------------------- | ---------------------------------- |
+| Stateful Logic          | Hardware remembers previous values |
+| Recirculation           | Feedback path preserves state      |
+| Retain Case             | Preserve previous state            |
+| Memory Update Mux       | Select next state value            |
+| Functional Clock Gating | Avoid unnecessary updates          |
+| Pipeline Cadence        | Timing alignment across stages     |
+| Recall Path             | Reusing stored data                |
+
+State is implemented using recirculation through flip-flops.
+
+---
+
+# Key Learning Outcome
+
+After this lecture, the learner understands:
+
+- stateful datapath design
+- explicit state recirculation
+- memory update logic
+- retain behavior
+- recirculation timing
+- pipeline-consistent memory timing
+- memory recall paths
+- feedback-based hardware design
+- visualization-assisted debugging
+- TL-Verilog state modeling
+
+---
+
+# Notes
+
+This lecture introduces state retention through recirculation.
