@@ -87,3 +87,39 @@ However the calculator interprets numbers as unsigned values. The unsigned numbe
 
 The recall operation loads stored value into calculator input.
 
+---
+
+# Hardware Perspective
+
+Invalid cycles do not require explicit output cleanup. Validity itself defines whether computation matters. This simplifies:
+
+- datapath logic
+- debugging
+- waveform interpretation
+- low-power design.
+
+---
+
+# Key Learning Outcome
+
+After this lecture, the learner understands:
+
+- validity-aware calculator design
+- valid-when conditions
+- reset-aware validity
+- don't care propagation
+- visualization-assisted debugging
+- waveform comparison
+- unsigned underflow behavior
+- MakerChip visualization tools
+
+---
+
+# Notes
+
+This lecture introduces:
+
+- visual pipeline tracing
+- waveform comparison
+- transaction-level visualization
+
