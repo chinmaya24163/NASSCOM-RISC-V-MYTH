@@ -83,6 +83,8 @@ This repository contains day-wise notes, lab writeups, and lecture documentation
 - [37-RV_D4SK2_L1_Implementation Plan and Lab for PC](day4/37-RV_D4SK2_L1_Implementation_Plan_and_Lab_for_PC.md)
 - [38-RV_D4SK2_L2_Lab For Instruction Fetch Logic](day4/38-RV_D4SK2_L2_Lab_For_Instruction_Fetch_Logic.md)
 - [39-RV_D4SK2_L3_Lab For RV Instruction Types IRSBJU Decode Logic](day4/39-RV_D4SK2_L3_Lab_For_RV_Instruction_Types_IRSBJU_Decode_Logic.md)
+- [40-RV_D4SK2_L4_Lab For Instruction Immediate Decode Logic For RV-ISBUJ](day4/40-RV_D4SK2_L4_Lab_For_Instruction_Immediate_Decode_Logic_For_RV-ISBUJ.md)
+- [41-RV_D4SK2_L5_Lab To Decode other Fields of Instructions For RV-ISBUJ](day4/41-RV_D4SK2_L5_Lab_To_Decode_other_Fields_of_Instructions_For_RV-ISBUJ.md)
 - [42-ISBUJ](day4/42-ISBUJ.md)
 - [43-RV_D4SK2_L7_Lab To Decode Individual Instruction](day4/43-RV_D4SK2_L7_Lab_To_Decode_Individual_Instruction.md)
 
