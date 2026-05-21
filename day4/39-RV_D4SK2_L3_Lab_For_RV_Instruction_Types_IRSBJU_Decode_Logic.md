@@ -69,6 +69,8 @@ The decoder effectively behaves like large combinational pattern matcher. Instru
 
 ---
 
+![Instruction Type Decode](images/lec39/Instruction_Type_Decode.png)
+
 ![Decode TLV](images/lec39/Decode_TLV.png)
 
 [Click Here To Open the Decode implementation in Makerchip](https://makerchip.com/v132/ide/~0ADf9hjY/p-0vghED)
