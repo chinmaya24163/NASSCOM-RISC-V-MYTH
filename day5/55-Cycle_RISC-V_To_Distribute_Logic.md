@@ -40,7 +40,7 @@ rather than introducing entirely new functionality.
 Refer to the link below for documentation and explanations of the screenshots of TLV code and simulation:
 [54-Cycle RISC-V To Take Care Of Invalid Cycles](day5/54-Cycle_RISC-V_To_Take_Care_Of_Invalid_Cycles.md)
 
-![Stage 0](images/lec55/Stage0_valid.png4)
+![Stage 0](images/lec55/Stage0_valid.png)
 
 ![Stage 1 And Stage 2](images/lec55/Stage1_And_2_valid.png)
 
