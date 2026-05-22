@@ -100,6 +100,31 @@ and is consumed using:
 ```
 This aligns branch resolution timing with the deeper pipeline.
 
+## Register File Timing Macro
+
+The register file macro timing was updated to:
+
+```tlv
+m4+rf(@2, @3)
+```
+Meaning of the Arguments:
+| Argument | Meaning                   |
+| -------- | ------------------------- |
+| `@2`     | Register file read stage  |
+| `@3`     | Register file write stage |
+This means:
+
+- register operands are read in stage @2
+- register results are written in stage @3
+
+This change was needed because earlier versions of the CPU used shorter dependency paths. After introducing the 3-cycle pipeline cadence, the instruction timing became:
+| Stage | Operation                |
+| ----- | ------------------------ |
+| `@0`  | PC generation            |
+| `@1`  | Fetch + Decode           |
+| `@2`  | Register File Read       |
+| `@3`  | Execute + Register Write |
+
 ## Pipeline Timing Perspective
 
 The instruction now behaves like:
