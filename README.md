@@ -2,6 +2,19 @@
 
 This repository contains day-wise notes, lab writeups, and lecture documentation for the NASSCOM RISC-V based MYTH program.
 
+The workshop covered:
+- RISC-V ISA fundamentals
+- CPU microarchitecture
+- pipelining
+- hazard handling
+- register files
+- ALU operations
+- branch/jump control
+- load/store memory operations
+- timing-abstract hardware design
+
+(MakerChip link, file and screenshots at EOF)
+
 ---
 
 ## RV Day 1 - Introduction to RISC-V ISA and GNU compiler toolchain
@@ -121,3 +134,30 @@ This repository contains day-wise notes, lab writeups, and lecture documentation
 - [63-RV_D5SK3_L4_Lab To Add Stores And Loads To The Test Program](day5/63-RV_D5SK3_L4_Lab_To_Add_Stores_And_Loads_To_The_Test_Program.md)
 - [64-RV_D5SK3_L5_Lab To Add Control Logic For Jump Instructions](day5/64-RV_D5SK3_L5_Lab_To_Add_Control_Logic_For_Jump_Instructions.md)
 - [65-RV_D5SK3_L6_Wrap Up](day5/65-RV_D5SK3_L6_Wrap_Up.md)
+
+---
+
+## MakerChip Link, File And Screenshots
+
+
+![TLV](images/lec64/tlv1.png)
+
+![TLV](images/lec64/tlv2.png)
+
+![TLV](images/lec64/tlv3.png)
+
+![TLV](images/lec64/tlv4.png)
+
+![Block Diagram](images/lec64/BlockDiagram.png)
+
+![Viz](images/lec65/Viz.png)
+
+![Waveforms](images/lec65/Waveform1.png)
+
+![Waveforms](images/lec65/Waveform2.png)
+
+![Waveforms](images/lec65/Waveform3.png)
+
+[Click Here To Open the Custom RV32I CPU implementation in Makerchip](https://makerchip.com/v132/ide/~0ADf9hjY/p-0Y6hDy)
+
+[Click Here To Open Pipelined_RV32I_Base_Instruction_CPU_Core.v ](src/Pipelined_RV32I_Base_Instruction_CPU_Core.v)
