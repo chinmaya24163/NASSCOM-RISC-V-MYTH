@@ -133,3 +133,32 @@ Branch instructions dynamically redirect program execution flow. This introduces
 - program control structures
 
 inside software execution.
+
+---
+
+# Key Learning Outcome
+
+After this lecture, the learner understands:
+
+- branch target computation
+- signed branch offsets
+- PC redirection
+- branch-controlled instruction fetch
+- ahead-by-one timing
+- branch pipeline timing
+- loop execution support
+- branch mux integration
+
+This lecture completes conditional control-flow execution inside the RISC-V processor.
+
+---
+
+# Notes
+
+This lecture introduces dynamic control-flow support. The processor can now:
+
+- execute iterative programs
+- follow conditional execution paths
+- perform looping behavior
+
+which are fundamental capabilities required for real software execution.
