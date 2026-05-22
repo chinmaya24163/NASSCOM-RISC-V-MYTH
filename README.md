@@ -140,23 +140,23 @@ The workshop covered:
 ## MakerChip Link, File And Screenshots
 
 
-![TLV](images/lec64/tlv1.png)
+![TLV](images/tlv1.png)
 
-![TLV](images/lec64/tlv2.png)
+![TLV](images/tlv2.png)
 
-![TLV](images/lec64/tlv3.png)
+![TLV](images/tlv3.png)
 
-![TLV](images/lec64/tlv4.png)
+![TLV](images/tlv4.png)
 
-![Block Diagram](images/lec64/BlockDiagram.png)
+![Block Diagram](images/BlockDiagram.png)
 
-![Viz](images/lec65/Viz.png)
+![Viz](images/Viz.png)
 
-![Waveforms](images/lec65/Waveform1.png)
+![Waveforms](images/Waveform1.png)
 
-![Waveforms](images/lec65/Waveform2.png)
+![Waveforms](images/Waveform2.png)
 
-![Waveforms](images/lec65/Waveform3.png)
+![Waveforms](images/Waveform3.png)
 
 [Click Here To Open the Custom RV32I CPU implementation in Makerchip](https://makerchip.com/v132/ide/~0ADf9hjY/p-0Y6hDy)
 
