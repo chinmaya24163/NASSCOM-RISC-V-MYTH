@@ -71,6 +71,18 @@ which is the next sequential instruction after the load.
 
 ---
 
+![Stage 0](images/lec60/Stage0.png)
+
+![Stage 1](images/lec60/Stage1_pic1.png)
+
+![Stage 1](images/lec60/Stage1_pic2.png)
+
+![Stage 2 And 3 And Viz](images/lec60/Stage2_3.png)
+
+[Click Here To Open the implementation in Makerchip](https://makerchip.com/v132/ide/~0ADf9hjY/p-0Y6hDy)
+
+---
+
 # Hardware Perspective
 
 Pipeline control logic becomes necessary to:
